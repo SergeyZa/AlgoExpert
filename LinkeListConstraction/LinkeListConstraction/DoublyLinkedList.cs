@@ -4,7 +4,7 @@ using System.Diagnostics.CodeAnalysis;
 using System.Net.Http.Headers;
 using System.Text;
 
-namespace LinkeListConstraction
+namespace LinkeListConstractionSolution
 {
     public class DoublyLinkedList
     {

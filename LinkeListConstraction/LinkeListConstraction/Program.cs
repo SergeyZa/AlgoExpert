@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LinkeListConstraction
+namespace LinkeListConstractionSolution
 {
     class Program
     {

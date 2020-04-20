@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LinkeListConstraction\LinkeListConstraction.csproj" />
+    <ProjectReference Include="..\LinkeListConstraction\LinkedListConstractionSolution.csproj" />
   </ItemGroup>
 
 </Project>

@@ -3,11 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkeListConstraction", "LinkeListConstraction\LinkeListConstraction\LinkeListConstraction.csproj", "{A446A55E-051A-4B16-B4D7-9297BCB37053}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListConstractionSolution", "LinkeListConstraction\LinkeListConstraction\LinkedListConstractionSolution.csproj", "{A446A55E-051A-4B16-B4D7-9297BCB37053}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkeListConstractionTests", "LinkeListConstraction\LinkeListConstractionTests\LinkeListConstractionTests.csproj", "{D9D0BDCC-61CE-401C-AC5B-80D8A109C39B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListConstractionTests", "LinkeListConstraction\LinkeListConstractionTests\LinkedListConstractionTests.csproj", "{D9D0BDCC-61CE-401C-AC5B-80D8A109C39B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinkeListConstraction", "LinkeListConstraction", "{4DC162AF-8698-449A-9CD6-955A3D49A18E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinkedListConstraction", "LinkedListConstraction", "{4DC162AF-8698-449A-9CD6-955A3D49A18E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BrunchSums", "BrunchSums", "{7D782ABD-3BB4-4291-83AA-83A774E3A658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrunchSumsSolution", "BrunchSums\BrunchSumsSolution\BrunchSumsSolution.csproj", "{92717DF0-3685-471D-AD52-A5F587DEBB6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrunchSumsSolutionTests", "BrunchSums\BrunchSumsSolutionTests\BrunchSumsSolutionTests.csproj", "{566A5849-ABF9-46F0-9BC5-063A6ABDB777}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +29,14 @@ Global
 		{D9D0BDCC-61CE-401C-AC5B-80D8A109C39B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9D0BDCC-61CE-401C-AC5B-80D8A109C39B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9D0BDCC-61CE-401C-AC5B-80D8A109C39B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92717DF0-3685-471D-AD52-A5F587DEBB6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92717DF0-3685-471D-AD52-A5F587DEBB6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92717DF0-3685-471D-AD52-A5F587DEBB6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92717DF0-3685-471D-AD52-A5F587DEBB6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{566A5849-ABF9-46F0-9BC5-063A6ABDB777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566A5849-ABF9-46F0-9BC5-063A6ABDB777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566A5849-ABF9-46F0-9BC5-063A6ABDB777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566A5849-ABF9-46F0-9BC5-063A6ABDB777}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +44,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{A446A55E-051A-4B16-B4D7-9297BCB37053} = {4DC162AF-8698-449A-9CD6-955A3D49A18E}
 		{D9D0BDCC-61CE-401C-AC5B-80D8A109C39B} = {4DC162AF-8698-449A-9CD6-955A3D49A18E}
+		{92717DF0-3685-471D-AD52-A5F587DEBB6F} = {7D782ABD-3BB4-4291-83AA-83A774E3A658}
+		{566A5849-ABF9-46F0-9BC5-063A6ABDB777} = {7D782ABD-3BB4-4291-83AA-83A774E3A658}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {736C0F1F-FBCB-42F7-B161-06CCBF4F09DE}

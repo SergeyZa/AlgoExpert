@@ -1,10 +1,10 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using LinkeListConstraction;
+using LinkeListConstractionSolution;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace LinkeListConstraction.Tests
+namespace LinkeListConstractionSolution.Tests
 {
     [TestClass()]
     public class DoublyLinkedListTests
